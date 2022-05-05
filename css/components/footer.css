@@ -1,0 +1,29 @@
+footer {
+  width: 100vw;
+  background-color: #2c2b2b;
+  padding: 60px;
+  box-sizing: border-box;
+}
+
+footer ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+footer li i {
+  font-size: 30px;
+  padding: 0 15px;
+  color: #1EDD88;
+}
+
+footer p {
+  color: #656565;
+  text-align: center;
+}
+
+footer p span {
+  color: rgb(207, 57, 57);
+}
